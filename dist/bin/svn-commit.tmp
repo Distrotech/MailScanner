@@ -1,0 +1,6 @@
+20090730 Added code to support "spam-viruses".
+--This line, and those below, will be ignored--
+
+M    MailScanner/SweepViruses.pm
+M    MailScanner/Message.pm
+M    MailScanner/ConfigDefs.pl

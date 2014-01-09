@@ -1,0 +1,4 @@
+Added .jpg and .jpeg to attachments not to compress.
+--This line, and those below, will be ignored--
+
+M    etc/mailscanner.conf
